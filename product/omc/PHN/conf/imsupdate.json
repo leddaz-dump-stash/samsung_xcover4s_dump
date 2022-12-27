@@ -1,0 +1,10 @@
+{
+  "update_version": 1,
+  "note": "Disable VoLTE for Voiceworks",
+  "mnomap_update": {
+    "add_mnomap": [
+        {"mccmnc": "20404", "subset": "7960", "gid1": "", "gid2": "", "spname": "", "mnoname": "DEFAULT", "note" : "filter out Voiceworks"},
+        {"mccmnc": "20408", "subset": "0950", "gid1": "", "gid2": "", "spname": "", "mnoname": "DEFAULT", "note" : "filter out Voiceworks"}
+    ]
+  }
+}

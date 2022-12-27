@@ -1,0 +1,12 @@
+{
+  "note": "Set ECT for Vodafone Germany",
+  "imsprofile_update": {
+    "profile": [
+      {
+        "name": "VODAFONE Germany IMS VoLTE",
+        "mnoname": "Vodafone_DE",
+        "support_ect": true
+      }
+    ]
+  }
+}

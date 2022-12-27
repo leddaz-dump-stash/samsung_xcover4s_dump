@@ -1,0 +1,14 @@
+# xcover4sxx-user 11 RP1A.200720.012 G398FNXXUHCVK3 release-keys
+- manufacturer: samsung
+- platform: universal7884
+- codename: xcover4s
+- flavor: xcover4sxx-user
+- release: 11
+- id: RP1A.200720.012
+- incremental: G398FNXXUHCVK3
+- tags: release-keys
+- fingerprint: samsung/xcover4sxx/xcover4s:11/RP1A.200720.012/G398FNXXUHCVK3:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: xcover4sxx-user-11-RP1A.200720.012-G398FNXXUHCVK3-release-keys
+- repo: samsung_xcover4s_dump
