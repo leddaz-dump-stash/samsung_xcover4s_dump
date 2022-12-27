@@ -1,0 +1,4 @@
+service snapsecserv /vendor/bin/hw/vendor.samsung.hardware.securesnap@1.2-service
+    class hal
+    user system
+    group system
